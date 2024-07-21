@@ -1,0 +1,6 @@
+.env-non-dev
+.env-render
+__pycache__
+.appdata
+.pytest_cache
+.coverage
